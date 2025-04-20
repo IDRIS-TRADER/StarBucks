@@ -34,10 +34,10 @@ const shelf = document.querySelector('.content-fourth__shelf-second')
 document.addEventListener('click', (event) => {
     if(event.target.closest('.content-fourth__shelf-second--arrol-right')) {
          shelf.classList.add('transform')
-         arrowRight.style.opacity = '0'
+         arrowRight.style.display = 'none'
     }else {
         shelf.classList.remove('transform')
-        arrowRight.style.opacity = '1'
+        arrowRight.style.display = 'block'
     }
 })
 
