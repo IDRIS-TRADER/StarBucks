@@ -486,10 +486,6 @@ body {
     top: 1600px;
 }
 
-.content-fourth {
-    overflow-x: hidden;
-}
-
 .content-fourth__shelf-first {
     display: flex;
     align-items: center;
