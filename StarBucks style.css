@@ -109,7 +109,7 @@ body {
     font-weight: 800;
     color: transparent;
     background: var(--color-grin);
-    background-clip: text;
+    -webkit-background-clip: text;
 }
 
 .header__munu--list {
@@ -199,7 +199,7 @@ body {
 .content-first__column-first--zogolovok--element {
     color: transparent;
     background: var(--color-grin);
-    background-clip: text;
+    -webkit-background-clip: text;
 }
 
 .content-first__column-first--text {
@@ -252,7 +252,7 @@ body {
 .content-first__column-first__data--text--element {
     color: transparent;
     background: var(--color-grin);
-    background-clip: text;
+    -webkit-background-clip: text;
 }
 
 .content-first__column-first__data--text-second {
@@ -439,7 +439,7 @@ body {
 .content-third__column-second--zogolovok--element {
     color: transparent;
     background: var(--color-grin);
-    background-clip: text;
+    -webkit-background-clip: text;
 }
 
 .content-third__column-second--text {
@@ -502,7 +502,7 @@ body {
 .content-fourth__shelf-first--zogolovok--element {
     color: transparent;
     background: var(--color-grin);
-    background-clip: text;
+    -webkit-background-clip: text;
 }
 
 .content-fourth__shelf-first--text {
@@ -868,7 +868,7 @@ body {
 .content-fifth__shelf-first--zogolovok--element {
     color: transparent;
     background: var(--color-grin);
-    background-clip: text;
+    -webkit-background-clip: text;
 }
 
 .content-fifth__shelf-second {
@@ -1045,7 +1045,7 @@ body {
 .content-sixth__column-first--zogolovok--element {
     color: transparent;
     background: var(--color-grin);
-    background-clip: text;
+    -webkit-background-clip: text;
 }
 
 .content-sixth__column-first--text {
@@ -1113,7 +1113,7 @@ body {
     font-weight: 800;
     color: transparent;
     background: var(--color-grin);
-    background-clip: text;
+    -webkit-background-clip: text;
 }
 
 .footer__shelf-first--arrow {
@@ -1157,7 +1157,7 @@ body {
     font-weight: 500;
     color: transparent;
     background: var(--color-grin);
-    background-clip: text;
+    -webkit-background-clip: text;
 }
 
 .footer__shelf-third--instagram {
